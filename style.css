@@ -3,7 +3,7 @@ body{
       
 }
 .banner{
-    background-image: url(../portfolio/bg-images/techbg.avif);
+    background-image: url(./bg-images/techbg.avif);
     padding: 250px 0;
     background-size: cover;
     background-repeat: no-repeat;
